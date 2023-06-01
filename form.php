@@ -2,6 +2,7 @@
 <html>
     <head>
         <link rel="stylesheet" type="text/css" href="styles.css">
+        <title>Input Form</title>
     </head>
     <body>
         <div class="form-input">
